@@ -1,2 +1,4 @@
 FileUploadSample/bin/
 FileUploadSample/obj/
+.vs/
+packages/
